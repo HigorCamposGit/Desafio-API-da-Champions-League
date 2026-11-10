@@ -31,7 +31,7 @@ A API disponibiliza para receber requisições (Rotas) HTTP e devolver informaç
 * `http://localhost:3333/` Home com uma mensagem de boas-vindas.
 * `http://localhost:3333/api` - Informaçãoes de como usr a API.
 * `http://localhost:3333/api/clubs` - Lista de Clubes, (Cada navegador mostra de um jeito diferente).
-* `http://localhost:3333/api/players` - Lista de Jogadores. (Cada navegador mostra de um jeito diferente).
+* `http://localhost:3333/api/players` - Lista de Jogadores, (Cada navegador mostra de um jeito diferente).
 
 ---
 
@@ -43,7 +43,6 @@ A API disponibiliza para receber requisições (Rotas) HTTP e devolver informaç
 </p>
 
 ---
-
 
 
 ## 📝 Licença
