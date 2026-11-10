@@ -12,31 +12,39 @@ A base inicial do conceito e arquitetura foi desenvolvida a partir das aulas min
 pelo professor **Felipe Aguiar** ([felipeAguiarCode](https://github.com/felipeAguiarCode)) na plataforma **DIO (Digital Innovation One)**, 
 com aprimoramentos, correções de rotas e organização estrutural aplicados nesta versão.
 
+---
 
-## 🚀 Endereços Principais
+## 🛠️ Tecnologias Utilizadas
 
-* **`http://localhost:3333/`** - Status do Servidor
-* **`http://localhost:3333/api`** - Documentação e Boas-vindas da API
-* **`http://localhost:3333/api/clubs`** - Listagem de Clubes
-* **`http://localhost:3333/api/players`** - Gerenciamento de Jogadores
+- **[Node.js](https://nodejs.org/)** — Ambiente de execução JavaScript no lado do servidor.
+- **[Express](https://expressjs.com/)** — Framework web para roteamento e gerenciamento de requisições HTTP.
+- **[TypeScript](https://www.typescriptlang.org/)** — Superset do JavaScript com tipagem estática e segurança de código.
+- **[tsx](https://github.com/privatenumber/tsx)** — Executador de TypeScript com suporte a *watch mode* e recarregamento automático.
+- **[cors](https://github.com/expressjs/cors)** — Middleware para gerenciamento de permissões de origens cruzadas (CORS).
+- **[VS Code](https://code.visualstudio.com/)** — Ambiente de desenvolvimento integrado (IDE).
+- **[Git](https://git-scm.com/)** & **[GitHub](https://github.com/)** — Controle de versão distribuído e hospedagem de código-fonte.
 
-## 💻 Tecnologias e Ferramentas
+---
 
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+## 🏆 | ⚽| Endpoints (Objetivo da Aplicação)
+A API disponibiliza para receber requisições (Rotas) HTTP e devolver informações para quem a consulta da Champions League 2026.
+* `http://localhost:3333/` Home com uma mensagem de boas-vindas.
+* `http://localhost:3333/api` - Informaçãoes de como usr a API.
+* `http://localhost:3333/api/clubs` - Lista de Clubes, (Cada navegador mostra de um jeito diferente).
+* `http://localhost:3333/api/players` - Lista de Jogadores. (Cada navegador mostra de um jeito diferente).
 
-## 👨🏽‍💻 Desenvolvedor & Autor
+---
 
-**Higor de Campos**  
-*Desenvolvedor Front-end em formação | Focado em FullStack, Lógica de Programação e IA*
+## 🤝 Conecte-se Comigo
 
-## 🤝 Créditos e Agradecimentos
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
 
-Projeto refatorado e estruturado por **Higor de Campos** como parte de estudos práticos em desenvolvimento Backend. 
+---
 
-A base inicial do conceito e arquitetura foi desenvolvida a partir das aulas ministradas pelo **Felipe Aguiar** na plataforma **DIO (Digital Innovation One)**, com aprimoramentos e refatorações aplicadas de forma autônoma.
+
 
 ## 📝 Licença
 
