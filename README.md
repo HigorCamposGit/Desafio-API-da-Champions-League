@@ -6,7 +6,7 @@
 Desafio com objetivo de por em funcionamento esta **API RESTful** desenvolvida em **Node.js**, **Express** e **TypeScript**. 
 Destinada a gerenciar clubes e jogadores da Champions League 2026. O projeto passou por um processo completo de refatoração, 
 estruturação de rotas aprimorada, padronização de respostas **JSON** e organização de arquitetura `Controllers`, `Services` e `Repositories`.
-Projeto refatorado e estruturado por **Higor de Campos** como parte de estudos práticos em desenvolvimento Backend. 
+Projeto refatorado e estruturado por **Higor de Campos** como parte da **Formação Node.js Fundamentals**. 
 
 A base inicial do conceito e arquitetura foi desenvolvida a partir das aulas ministradas 
 pelo professor **Felipe Aguiar** ([felipeAguiarCode](https://github.com/felipeAguiarCode)) na plataforma **DIO (Digital Innovation One)**, 
