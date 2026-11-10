@@ -1,0 +1,24 @@
+# Dependências
+node_modules/
+jspm_packages/
+
+# Arquivos de Sistema e OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Ambiente e Configurações Locais
+.env
+.env.local
+.env.*.local
+
+# Build e Compilação (TypeScript / JS)
+dist/
+build/
+out/
+.tsbuildinfo
+
+# Editores de Código
+.vscode/*
+!.vscode/extensions.json
+.idea/
